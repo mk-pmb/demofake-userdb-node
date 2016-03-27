@@ -1,0 +1,27 @@
+{
+  "name": "demofake-userdb",
+  "version": "1.0.0",
+  "description": "A mock database for user accounts.",
+  "main": "udb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/demofake-userdb-node.git"
+  },
+  "keywords": [
+    "mock",
+    "demo",
+    "fake",
+    "user",
+    "database",
+    "stub"
+  ],
+  "author": "M.K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk-pmb/demofake-userdb-node/issues"
+  },
+  "homepage": "https://github.com/mk-pmb/demofake-userdb-node#readme"
+}
